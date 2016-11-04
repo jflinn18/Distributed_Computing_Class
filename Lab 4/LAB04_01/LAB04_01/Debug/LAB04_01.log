@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jflinn18\desktop\lab04_01\lab04_01\source.cpp(38): warning C4244: 'initializing': conversion from 'std::streamoff' to 'off_t', possible loss of data
+  LAB04_01.vcxproj -> C:\Users\jflinn18\Desktop\LAB04_01\Debug\LAB04_01.exe
+  LAB04_01.vcxproj -> C:\Users\jflinn18\Desktop\LAB04_01\Debug\LAB04_01.pdb (Full PDB)

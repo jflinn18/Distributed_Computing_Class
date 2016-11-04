@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jflinn18\desktop\lab04_02\lab04_02\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  LAB04_02.vcxproj -> C:\Users\jflinn18\Desktop\LAB04_02\Debug\LAB04_02.exe
+  LAB04_02.vcxproj -> C:\Users\jflinn18\Desktop\LAB04_02\Debug\LAB04_02.pdb (Full PDB)
